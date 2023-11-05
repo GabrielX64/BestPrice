@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html style="background-color: black;">
-<head>
-<title style="color: white;">Best Buy Web</title>
-</head >
 
-<body>
-    <p class="text" style="color: white;">¡Buenos días!</p>
-    <ul>
-        <li style="color: white;">¿Quienes somos?</li>
-        <li style="color: white;">Centro de ayuda</li>
-        <li style="color: white;">¿Como se usa?</li>
-    </ul>
-    <h1 style="color: aqua;">IHC</h1>
-    <h6 style="color: white;"></h6>
-</body>
-
-</html>
